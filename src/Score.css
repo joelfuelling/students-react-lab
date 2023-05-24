@@ -1,0 +1,5 @@
+li, hr {
+    list-style: none;
+    margin-left: -40px;
+    padding-inline-start: 0;
+}

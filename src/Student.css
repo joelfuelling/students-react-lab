@@ -1,0 +1,9 @@
+.list {
+    border: 2px solid grey;
+    border-radius: 2%;
+}
+
+.name{
+    color: rgb(179, 20, 20);
+    font-size: 125%;
+}
